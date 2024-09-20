@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { NavComponent } from './nav/nav.component';
-import { NgFor } from '@angular/common';
 
 @Component({
   selector: 'app-header',
