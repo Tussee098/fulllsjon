@@ -7,7 +7,7 @@ import { NgFor } from '@angular/common';
   standalone: true,
   imports: [NavComponent],
   templateUrl: './header.component.html',
-  styleUrl: './header.component.scss'
+  styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent {
 
